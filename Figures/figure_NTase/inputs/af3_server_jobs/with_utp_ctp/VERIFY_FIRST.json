@@ -1,0 +1,34 @@
+[
+  {
+    "name": "NTase_YP_009031408_ATP_CTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  }
+]

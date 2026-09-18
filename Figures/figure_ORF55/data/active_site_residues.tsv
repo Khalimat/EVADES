@@ -1,0 +1,14 @@
+order	group	group_label	ligase_resn	ligase_resi	orf55_resn	orf55_resi	identical	label	blosum62	motif	role_nair2007
+1	active_site	Adenylylation active site	LYS	27	LYS	25	yes	K27-K25		I	catalytic lysine (motif I, 27-KIDGIR-32); forms the covalent ligase-(Nzeta-lysyl)-AMP intermediate; expelled in step 2
+2	active_site	Adenylylation active site	ASP	29	ASP	27	yes	D29-D27		I	motif I; essential for nick sealing; catalytic in steps 2 and 3; Asp29 Odelta1 is an apical ligand of the putative step-2 catalytic-metal site
+3	active_site	Adenylylation active site	ARG	32	ARG	30	yes	R32-R30		I	motif I; essential; direct + water-mediated H-bonds to the AMP ribose O2'/O3'; main-chain amide contacts the terminal 3'-side phosphate
+5	active_site	Adenylylation active site	GLU	67	GLU	66	yes	E67-E66		III	motif III; essential; Oepsilon1 contacts the AMP-adduct ribose O4'; Oepsilon2 accepts H-bonds from the motif I main chain
+7	active_site	Adenylylation active site	PHE	98	PHE	99	yes	F98-F99		IIIa	motif IIIa; essential; pi-stacks the adenine base of the covalent AMP adduct
+8	active_site	Adenylylation active site	GLU	161	GLU	161	yes	E161-E161		IV	motif IV; essential for nick sealing; candidate ligand of the divalent catalytic metal for step 2 (Oepsilon1/Oepsilon2 are apical ligands of the metal site); equivalent motif IV Glu binds metal in RNA ligases and mycobacterial LigD
+10	active_site	Adenylylation active site	LYS	186	ARG	186	no	K186-R186	2	V	motif V; bifurcated contact to the nick 5'-terminal + penultimate phosphates AND to a non-bridging AMP phosphate oxygen; K186A ~7% WT. In ORF55 -> Arg186 (conservative; retains the essential cationic charge)
+11	active_site	Adenylylation active site	LYS	188	LYS	188	yes	K188-K188		V	motif V; essential; with Lys186 coordinates a non-bridging AMP phosphate oxygen, stabilising the step-2 transition state
+4	nick_recognition	Nick recognition	ARG	42	ARG	41	yes	R42-R41		Ia	motif Ia loop (41-SRTFKP-46); engages the terminal 3'-side phosphate in the major groove; near the nick 5'-PO4; required for ligation and for nick sensing
+9	nick_recognition	Nick recognition	ARG	176	ARG	176	yes	R176-R176		(NTase)	coordinates the nick terminal 5'-PO4; alanine substitution drops nick sealing to ~12% WT and cripples nick sensing
+6	structural	Substrate & clamp geometry	PHE	75	CYS	78	no	F75-C78	-2	(75-helix)	proximal residue of the 75-FQDTTSAVMTG-85 minor-groove helix; van der Waals contact to the 3'-terminal sugar (imposes A-form terminal bp); NON-catalytic, NOT conserved in ORF55 (Phe->Cys)
+12	structural	Substrate & clamp geometry	ARG	285	ARG	288	yes	R285-R288		VI/OB	OB-domain (beta4-beta5 loop); buried Arg285-Asp29 salt bridge that locks the NTase-OB clamp around the DNA; conserved in human LIG1 as Arg871-Asp570
+13	structural	Substrate & clamp geometry	PHE	286	PHE	289	yes	F286-F289		OB	OB-domain; packs against the 5'-terminal deoxynucleoside sugar, forcing the terminal base pair into an A-like conformation

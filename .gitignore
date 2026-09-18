@@ -1,0 +1,8 @@
+# macOS / Python clutter
+.DS_Store
+__pycache__/
+*.pyc
+
+# Raw AlphaFold 3 outputs (large; regenerate with Analysis/run_alphafold3 or the AF3 server)
+Figures/figure_NTase/af3_results/
+Figures/figure_putative_MoAs/panelD/alphafold/

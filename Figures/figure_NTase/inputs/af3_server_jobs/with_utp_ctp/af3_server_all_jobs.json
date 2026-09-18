@@ -1,0 +1,2242 @@
+[
+  {
+    "name": "NTase_YP_009031408_ATP_CTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_ATP_CTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_ATP_CTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_ATP_CTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_ATP_CTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_ATP_UTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_ATP_UTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_ATP_UTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_ATP_UTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_ATP_UTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_GTP_CTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_GTP_CTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_GTP_CTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_GTP_CTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_GTP_CTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_GTP_UTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_GTP_UTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_GTP_UTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_GTP_UTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_GTP_UTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_CTP_CTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_CTP_CTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_CTP_CTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_CTP_CTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_CTP_CTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_CTP_UTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_CTP_UTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_CTP_UTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_CTP_UTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_CTP_UTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_UTP_UTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_UTP_UTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_UTP_UTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_UTP_UTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009031408_UTP_UTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKTVDLSVTGMSWMEERTILLTPYGSRLYGTDTENSDWDFKGVCIPPKEYFLGLETFNEYNNTGGKTFKNTKDDVDINIIHVSKFVKDAMHGVPNNIEVLFAREQDYIILTELGQVLRDNRHLFLSKQIITKFGGYTRSLTNKLKNGAGRQELVEEFGYDTKNFMQGVRLQLSAIEILETGDYSTYRPERDFLLGCRNGEYTREQALALVESYDERLQVAHENSKLPEKPDYNKINGMLMAINEDALKFGIHS",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_ATP_CTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_ATP_CTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_ATP_CTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_ATP_CTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_ATP_CTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_ATP_UTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_ATP_UTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_ATP_UTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_ATP_UTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_ATP_UTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_GTP_CTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_GTP_CTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_GTP_CTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_GTP_CTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_GTP_CTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_GTP_UTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_GTP_UTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_GTP_UTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_GTP_UTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_GTP_UTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_GTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_CTP_CTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_CTP_CTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_CTP_CTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_CTP_CTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_CTP_CTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_CTP_UTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_CTP_UTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_CTP_UTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_CTP_UTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_CTP_UTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_UTP_UTP_Mg3_seed1",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_UTP_UTP_Mg3_seed2",
+    "modelSeeds": [
+      2
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_UTP_UTP_Mg3_seed3",
+    "modelSeeds": [
+      3
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_UTP_UTP_Mg3_seed4",
+    "modelSeeds": [
+      4
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "NTase_YP_009091875_UTP_UTP_Mg3_seed5",
+    "modelSeeds": [
+      5
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "UTP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "MG",
+          "count": 3
+        }
+      }
+    ]
+  }
+]
