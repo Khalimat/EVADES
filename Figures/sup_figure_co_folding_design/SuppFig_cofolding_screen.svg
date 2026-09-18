@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="196.1mm" viewBox="0 0 482 556">
+<rect width="482" height="556" fill="#FFFFFF"/>
+<text x="14.0" y="26.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="11.5" fill="#000000" text-anchor="start" font-weight="bold">A</text>
+<text x="32.0" y="26.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="9.2" fill="#33393E" text-anchor="start" font-weight="bold">Each ADP is co-folded with every protein of the system it inhibits</text>
+<text x="92.0" y="54.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.8" fill="#97A1A8" text-anchor="middle" font-weight="normal">ADP with uncharacterised</text>
+<text x="92.0" y="64.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.8" fill="#97A1A8" text-anchor="middle" font-weight="normal">mechanism</text>
+<text x="288.0" y="54.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.8" fill="#97A1A8" text-anchor="middle" font-weight="normal">All proteins of the defence system</text>
+<text x="288.0" y="64.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.8" fill="#97A1A8" text-anchor="middle" font-weight="normal">it is reported to inhibit</text>
+<circle cx="288.0" cy="130.0" r="50.0" fill="#EAF1F6"/>
+<circle cx="282.1" cy="96.5" r="7.0" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="298.3" cy="97.6" r="7.0" fill="#D3E4EC" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="312.2" cy="106.1" r="7.0" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="320.5" cy="120.1" r="7.0" fill="#D3E4EC" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="321.4" cy="136.4" r="7.0" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="314.6" cy="151.1" r="7.0" fill="#D3E4EC" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="301.7" cy="161.1" r="7.0" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="285.7" cy="163.9" r="7.0" fill="#D3E4EC" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="270.2" cy="159.0" r="7.0" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="258.8" cy="147.4" r="7.0" fill="#D3E4EC" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="254.0" cy="131.8" r="7.0" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="257.1" cy="115.8" r="7.0" fill="#D3E4EC" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="267.2" cy="103.1" r="7.0" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<rect x="62.6" y="117.5" width="58.8" height="25.0" rx="12.5" fill="#C96F5A" stroke="#9A4630" stroke-width="1.7"/>
+<text x="92.0" y="133.2" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.8" fill="#FFFFFF" text-anchor="middle" font-weight="bold">AcrIA1</text>
+<line x1="125.4" y1="130.0" x2="274.1" y2="96.5" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="290.3" y2="97.6" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="304.2" y2="106.1" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="312.5" y2="120.1" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="313.4" y2="136.4" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="306.6" y2="151.1" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="293.7" y2="161.1" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="277.7" y2="163.9" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="262.2" y2="159.0" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="250.8" y2="147.4" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="246.0" y2="131.8" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="249.1" y2="115.8" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="125.4" y1="130.0" x2="259.2" y2="103.1" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<text x="350.0" y="128.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.8" fill="#2E6079" text-anchor="start" font-weight="bold">type I-A CRISPR–Cas</text>
+<text x="350.0" y="139.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.4" fill="#97A1A8" text-anchor="start" font-weight="normal">13 proteins → 13 pairs</text>
+<circle cx="288.0" cy="240.0" r="37.0" fill="#EAF1F6"/>
+<circle cx="284.2" cy="218.3" r="8.5" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="304.9" cy="225.9" r="8.5" fill="#D3E4EC" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="308.7" cy="247.5" r="8.5" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="291.8" cy="261.7" r="8.5" fill="#D3E4EC" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="271.1" cy="254.1" r="8.5" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="267.3" cy="232.5" r="8.5" fill="#D3E4EC" stroke="#3F7B95" stroke-width="1.3"/>
+<rect x="65.0" y="227.5" width="54.0" height="25.0" rx="12.5" fill="#C96F5A" stroke="#9A4630" stroke-width="1.7"/>
+<text x="92.0" y="243.2" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.8" fill="#FFFFFF" text-anchor="middle" font-weight="bold">ORF46</text>
+<line x1="123.0" y1="240.0" x2="274.7" y2="218.3" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="123.0" y1="240.0" x2="295.4" y2="225.9" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="123.0" y1="240.0" x2="299.2" y2="247.5" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="123.0" y1="240.0" x2="282.3" y2="261.7" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="123.0" y1="240.0" x2="261.6" y2="254.1" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="123.0" y1="240.0" x2="257.8" y2="232.5" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<text x="337.0" y="238.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.8" fill="#2E6079" text-anchor="start" font-weight="bold">BREX type I</text>
+<text x="337.0" y="249.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.4" fill="#97A1A8" text-anchor="start" font-weight="normal">6 proteins → 6 pairs</text>
+<circle cx="288.0" cy="322.0" r="26.0" fill="#EAF1F6"/>
+<circle cx="285.7" cy="309.2" r="9.5" fill="#E3EEF3" stroke="#3F7B95" stroke-width="1.3"/>
+<circle cx="290.3" cy="334.8" r="9.5" fill="#D3E4EC" stroke="#3F7B95" stroke-width="1.3"/>
+<rect x="67.4" y="309.5" width="49.2" height="25.0" rx="12.5" fill="#C96F5A" stroke="#9A4630" stroke-width="1.7"/>
+<text x="92.0" y="325.2" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.8" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Gad2</text>
+<line x1="120.6" y1="322.0" x2="275.2" y2="309.2" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<line x1="120.6" y1="322.0" x2="279.8" y2="334.8" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<text x="326.0" y="320.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.8" fill="#2E6079" text-anchor="start" font-weight="bold">Gabija</text>
+<text x="326.0" y="331.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.4" fill="#97A1A8" text-anchor="start" font-weight="normal">2 proteins → 2 pairs</text>
+<circle cx="92.0" cy="362.0" r="1.7" fill="#C4C4C4"/>
+<circle cx="92.0" cy="369.0" r="1.7" fill="#C4C4C4"/>
+<circle cx="92.0" cy="376.0" r="1.7" fill="#C4C4C4"/>
+<circle cx="288.0" cy="362.0" r="1.7" fill="#C4C4C4"/>
+<circle cx="288.0" cy="369.0" r="1.7" fill="#C4C4C4"/>
+<circle cx="288.0" cy="376.0" r="1.7" fill="#C4C4C4"/>
+<text x="92.0" y="398.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.6" fill="#9A4630" text-anchor="middle" font-weight="bold">93 ADPs</text>
+<text x="92.0" y="409.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.4" fill="#97A1A8" text-anchor="middle" font-weight="normal">uncharacterised mechanism</text>
+<text x="288.0" y="398.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.6" fill="#2E6079" text-anchor="middle" font-weight="bold">19 defence systems</text>
+<text x="288.0" y="409.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.4" fill="#97A1A8" text-anchor="middle" font-weight="normal">166 defence proteins</text>
+<rect x="147.1" y="429.5" width="187.7" height="25.0" rx="12.5" fill="#EAF2F6" stroke="#3F7B95" stroke-width="1.7"/>
+<text x="241.0" y="445.5" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="9.6" fill="#2E6079" text-anchor="middle" font-weight="bold">433 ADP–defence protein pairs</text>
+<text x="14.0" y="486.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="11.5" fill="#000000" text-anchor="start" font-weight="bold">B</text>
+<text x="32.0" y="486.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="9.2" fill="#33393E" text-anchor="start" font-weight="bold">Co-folding and confidence filtering</text>
+<rect x="12.0" y="512.0" width="70.2" height="24.0" rx="12.0" fill="#FFFFFF" stroke="#3F7B95" stroke-width="1.7"/>
+<text x="47.1" y="527.1" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.6" fill="#2E6079" text-anchor="middle" font-weight="bold">433 pairs</text>
+<line x1="88.2" y1="524.0" x2="96.2" y2="524.0" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<rect x="102.2" y="506.5" width="121.7" height="35.0" rx="17.5" fill="#FFFFFF" stroke="#3F7B95" stroke-width="1.7"/>
+<text x="163.1" y="521.6" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.6" fill="#2E6079" text-anchor="middle" font-weight="bold">AlphaFold co-folding</text>
+<text x="163.1" y="532.6" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.6" fill="#2E6079" text-anchor="middle" font-weight="bold">5 models × 4 seeds</text>
+<text x="163.1" y="553.5" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.2" fill="#97A1A8" text-anchor="middle" font-weight="normal">8,660 structures</text>
+<line x1="230.0" y1="524.0" x2="238.0" y2="524.0" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<rect x="244.0" y="512.0" width="98.3" height="24.0" rx="12.0" fill="#FFFFFF" stroke="#3F7B95" stroke-width="1.7"/>
+<text x="293.1" y="527.1" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.6" fill="#2E6079" text-anchor="middle" font-weight="bold">mean ipTM ≥ 0.6</text>
+<text x="293.1" y="548.0" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="7.2" fill="#97A1A8" text-anchor="middle" font-weight="normal">across models and seeds</text>
+<line x1="348.3" y1="524.0" x2="356.3" y2="524.0" stroke="#AEBCC4" stroke-width="1.1" stroke-dasharray="1.8 3" stroke-linecap="round"/>
+<rect x="362.3" y="506.5" width="107.7" height="35.0" rx="17.5" fill="#E7F2EF" stroke="#3E8A78" stroke-width="1.7"/>
+<text x="416.1" y="521.6" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.6" fill="#2F6E5E" text-anchor="middle" font-weight="bold">candidate</text>
+<text x="416.1" y="532.6" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="8.6" fill="#2F6E5E" text-anchor="middle" font-weight="bold">interaction pairs</text>
+</svg>
