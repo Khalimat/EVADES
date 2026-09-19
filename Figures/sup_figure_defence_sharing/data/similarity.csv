@@ -1,0 +1,35 @@
+defence_1,protein_name_1,ADP(s)_1,defence_2,protein_name_2,ADP(s)_2,evalue
+AbiU,AbiU,surt,Gao_Mza,MzaE,_,0
+"BREX_I,BREX_II,BREX_V",pglX1/2,ocr,PrrC,EcoprrI,stp,0.00000000319
+"BREX_I,BREX_II,BREX_V",pglX1/2,ocr,Panchino,gp28,_,0
+"BREX_I,BREX_II,BREX_V",pglX1/2,ocr,DISARM_1,drmMI,_,0
+BREX_I,brxC,orbA,SspBCDE,SspC,_,0
+BREX_I,brxC,orbA,Gao_RL,RL_A,_,0
+Gabija,GajA,gad1,Retron_I_B (Eco8),ATPase_TOPRIM,_,0
+Gabija,GajA,gad1,"Retron_I_A (Vc95, Ec83 and Ec78)",ATPase,_,0.0000000005143333333
+Gabija,GajA,gad1,PARIS_I,AAA_15_DUF4435,_,0.000000000377
+Gao_Hhe,HheA,orf65,Mokosh,MkoC,_,0
+Gao_Hhe,HheA,orf65,Mokosh,MkoA,_,0
+Old exonuclease,Old exonuclease,oad1,Retron_I_B (Eco8),ATPase_TOPRIM,_,0
+Old exonuclease,Old exonuclease,oad1,"PARIS_I,PARIS_II",AAA_15_DUF4435,_,0.0000000055002895
+Old exonuclease,Old exonuclease,oad1,Menshen,NsnB,_,0.000000000902
+Old exonuclease,Old exonuclease,oad1,MADS,mad3,_,0
+Old exonuclease,Old exonuclease,oad1,Gabija,GajA,gad1,0
+PrrC,EcoprrI,stp,Panchino,gp28,_,0
+PrrC,EcoprrI,stp,MADS,mad2,_,0
+PrrC,EcoprrI,stp,type I RM,HsdM,"stp,ral",0
+PrrC,EcoprrI,stp,"BREX_I,BREX_II,BREX_V",pglX1/2,ocr,0.0000000040315
+RnlAB,RnlA,dmd,LsoAB,LsoA,dmd,0.00000000137
+Septu,PtuA,"anhur,svarog",Retron_I_B (Eco8),ATPase_TOPRIM,_,0.000000000423
+Septu,PtuA,"anhur,svarog","Retron_I_A (Vc95, Ec83 and Ec78)",ATPase,_,0
+Septu,PtuA,"anhur,svarog",PARIS_I,AAA_15_DUF4435,_,0
+Septu,PtuA,"anhur,svarog",PARIS_II,AAA_21_DUF4435,_,0.00000000338
+Septu,PtuA,"anhur,svarog",Menshen,NsnB,_,0
+Septu,PtuA,"anhur,svarog",MADS,mad3,_,0.000000000106
+type I RM,HsdM,"stp,ral",Panchino,gp28,_,0
+type I RM,HsdM,"stp,ral",MADS,mad2,_,0
+type I RM,HsdM,"stp,ral","BREX_I,BREX_II,BREX_V",pglX1/2,ocr,0.000000006506666667
+type I-E CRISPR-Cas,Cas3,"acrie1, acrif3,acrif23",Hachiman,HamB,_,0.00000000821
+type I-E CRISPR-Cas,Cas3,"acrie1, acrif3,acrif23",Dpd,DpdF,_,0.00000000263
+RecBCD,RecB,"gam,gp5_9",Gabija,GajB,_,0
+RecBCD,RecB,"gam,gp5_9",Mokosh_I,MkoA,_,0.0000000009052
