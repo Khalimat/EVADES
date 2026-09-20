@@ -1,0 +1,42 @@
+[{
+ "name": "ORF55_nicked_ATP_seed5",
+ "modelSeeds": [
+  "5"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MAFKPHLATDAVEEKIKFPCCILPKIDGVRGLNPDGRIVGRSLKLFKNRHTSAIFSGPQYMGYDGELAAGVETDPDLCRKTTSAVNTIEGEPFLKWHIFDLCAESVAELGYEARYNMMKDFITTQHAKGELLDLQVVPMYVVKSLQELLYWENIWLDMGYEGIIIRDPEKPYKHGRGTVREGGYLRIKRFIQEDAIVLDIIEGETNLNEATVNELGRTTRSSHQENKVPNGMIGTLVCKDVKTGNTINVSPGKLTQEDKIYYWNNPDKIKGRTISYKHFPHGVKDKPRFANFMHFRDESDQALD",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "dnaSequence": {
+    "sequence": "ATTGCGACCCCACTATCGGAA",
+    "count": 1
+   }
+  },
+  {
+   "dnaSequence": {
+    "sequence": "TTCCGATAGT",
+    "count": 1
+   }
+  },
+  {
+   "dnaSequence": {
+    "sequence": "GGGGTCGCAAT",
+    "count": 1
+   }
+  },
+  {
+   "ligand": {
+    "ligand": "CCD_ATP",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

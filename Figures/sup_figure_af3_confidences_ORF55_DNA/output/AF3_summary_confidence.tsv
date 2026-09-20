@@ -1,0 +1,5 @@
+substrate	n_models	n_seeds	iptm_mean	iptm_sd	ptm_mean	ptm_sd	ranking_mean	ranking_sd
+intact duplex (control)	25	5	0.9444	0.0050	0.9468	0.0047	0.9456	0.0050
+nicked	25	5	0.9420	0.0181	0.9448	0.0094	0.9432	0.0154
+1-nt gap	25	5	0.9472	0.0045	0.9488	0.0032	0.9480	0.0040
+2-nt gap	25	5	0.8500	0.0305	0.8872	0.0297	0.8580	0.0297

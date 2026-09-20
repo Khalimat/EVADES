@@ -1,0 +1,101 @@
+substrate	substrate_label	seed	sample	iptm	ptm	ranking_score
+intact_duplex	intact duplex (control)	1	0	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	1	1	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	1	2	0.940	0.950	0.950
+intact_duplex	intact duplex (control)	1	3	0.940	0.940	0.940
+intact_duplex	intact duplex (control)	1	4	0.940	0.940	0.940
+intact_duplex	intact duplex (control)	2	0	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	2	1	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	2	2	0.940	0.950	0.940
+intact_duplex	intact duplex (control)	2	3	0.940	0.940	0.940
+intact_duplex	intact duplex (control)	2	4	0.940	0.940	0.940
+intact_duplex	intact duplex (control)	3	0	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	3	1	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	3	2	0.940	0.950	0.950
+intact_duplex	intact duplex (control)	3	3	0.940	0.950	0.940
+intact_duplex	intact duplex (control)	3	4	0.940	0.940	0.940
+intact_duplex	intact duplex (control)	4	0	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	4	1	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	4	2	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	4	3	0.940	0.950	0.950
+intact_duplex	intact duplex (control)	4	4	0.940	0.940	0.940
+intact_duplex	intact duplex (control)	5	0	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	5	1	0.950	0.950	0.950
+intact_duplex	intact duplex (control)	5	2	0.940	0.950	0.940
+intact_duplex	intact duplex (control)	5	3	0.940	0.940	0.940
+intact_duplex	intact duplex (control)	5	4	0.940	0.940	0.940
+nicked	nicked	1	0	0.930	0.940	0.930
+nicked	nicked	1	1	0.930	0.940	0.930
+nicked	nicked	1	2	0.920	0.930	0.930
+nicked	nicked	1	3	0.910	0.930	0.920
+nicked	nicked	1	4	0.870	0.910	0.880
+nicked	nicked	2	0	0.950	0.950	0.950
+nicked	nicked	2	1	0.950	0.950	0.950
+nicked	nicked	2	2	0.950	0.950	0.950
+nicked	nicked	2	3	0.950	0.950	0.950
+nicked	nicked	2	4	0.950	0.950	0.950
+nicked	nicked	3	0	0.950	0.950	0.950
+nicked	nicked	3	1	0.950	0.950	0.950
+nicked	nicked	3	2	0.950	0.950	0.950
+nicked	nicked	3	3	0.950	0.950	0.950
+nicked	nicked	3	4	0.950	0.950	0.950
+nicked	nicked	4	0	0.950	0.950	0.950
+nicked	nicked	4	1	0.950	0.950	0.950
+nicked	nicked	4	2	0.950	0.950	0.950
+nicked	nicked	4	3	0.950	0.950	0.950
+nicked	nicked	4	4	0.950	0.940	0.950
+nicked	nicked	5	0	0.950	0.950	0.950
+nicked	nicked	5	1	0.950	0.950	0.950
+nicked	nicked	5	2	0.950	0.950	0.950
+nicked	nicked	5	3	0.950	0.940	0.950
+nicked	nicked	5	4	0.940	0.940	0.940
+gap1nt	1-nt gap	1	0	0.950	0.950	0.950
+gap1nt	1-nt gap	1	1	0.950	0.950	0.950
+gap1nt	1-nt gap	1	2	0.950	0.950	0.950
+gap1nt	1-nt gap	1	3	0.950	0.950	0.950
+gap1nt	1-nt gap	1	4	0.950	0.950	0.950
+gap1nt	1-nt gap	2	0	0.950	0.950	0.950
+gap1nt	1-nt gap	2	1	0.950	0.950	0.950
+gap1nt	1-nt gap	2	2	0.950	0.950	0.950
+gap1nt	1-nt gap	2	3	0.940	0.950	0.950
+gap1nt	1-nt gap	2	4	0.940	0.950	0.940
+gap1nt	1-nt gap	3	0	0.950	0.950	0.950
+gap1nt	1-nt gap	3	1	0.950	0.950	0.950
+gap1nt	1-nt gap	3	2	0.950	0.950	0.950
+gap1nt	1-nt gap	3	3	0.950	0.950	0.950
+gap1nt	1-nt gap	3	4	0.950	0.950	0.950
+gap1nt	1-nt gap	4	0	0.950	0.950	0.950
+gap1nt	1-nt gap	4	1	0.950	0.950	0.950
+gap1nt	1-nt gap	4	2	0.940	0.950	0.950
+gap1nt	1-nt gap	4	3	0.950	0.940	0.950
+gap1nt	1-nt gap	4	4	0.940	0.950	0.940
+gap1nt	1-nt gap	5	0	0.950	0.950	0.950
+gap1nt	1-nt gap	5	1	0.950	0.950	0.950
+gap1nt	1-nt gap	5	2	0.940	0.950	0.940
+gap1nt	1-nt gap	5	3	0.940	0.940	0.940
+gap1nt	1-nt gap	5	4	0.940	0.940	0.940
+gap2nt	2-nt gap	1	0	0.880	0.920	0.890
+gap2nt	2-nt gap	1	1	0.880	0.910	0.880
+gap2nt	2-nt gap	1	2	0.870	0.900	0.880
+gap2nt	2-nt gap	1	3	0.870	0.900	0.870
+gap2nt	2-nt gap	1	4	0.860	0.900	0.870
+gap2nt	2-nt gap	2	0	0.870	0.900	0.880
+gap2nt	2-nt gap	2	1	0.860	0.900	0.870
+gap2nt	2-nt gap	2	2	0.860	0.900	0.870
+gap2nt	2-nt gap	2	3	0.860	0.900	0.870
+gap2nt	2-nt gap	2	4	0.860	0.890	0.860
+gap2nt	2-nt gap	3	0	0.870	0.910	0.880
+gap2nt	2-nt gap	3	1	0.870	0.900	0.880
+gap2nt	2-nt gap	3	2	0.870	0.900	0.880
+gap2nt	2-nt gap	3	3	0.870	0.900	0.870
+gap2nt	2-nt gap	3	4	0.850	0.890	0.860
+gap2nt	2-nt gap	4	0	0.800	0.840	0.810
+gap2nt	2-nt gap	4	1	0.800	0.840	0.810
+gap2nt	2-nt gap	4	2	0.790	0.830	0.800
+gap2nt	2-nt gap	4	3	0.790	0.820	0.800
+gap2nt	2-nt gap	4	4	0.780	0.820	0.790
+gap2nt	2-nt gap	5	0	0.870	0.910	0.880
+gap2nt	2-nt gap	5	1	0.870	0.910	0.880
+gap2nt	2-nt gap	5	2	0.860	0.910	0.870
+gap2nt	2-nt gap	5	3	0.850	0.890	0.850
+gap2nt	2-nt gap	5	4	0.840	0.890	0.850
