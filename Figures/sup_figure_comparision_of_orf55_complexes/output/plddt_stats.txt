@@ -1,0 +1,25 @@
+substrate        n    protein pLDDT        DNA pLDDT
+intact duplex   25     96.9 +/- 0.1      95.1 +/- 0.3
+nicked          25     97.1 +/- 0.2      95.2 +/- 2.2
+1-nt gap        25     97.3 +/- 0.1      96.5 +/- 0.8
+2-nt gap        25     96.0 +/- 0.6      81.9 +/- 5.0
+
+per-seed DNA pLDDT (mean of 5 models per seed):
+  intact duplex   95.0   95.1   95.0   95.0   95.3
+  nicked          91.8   96.3   96.0   95.9   96.1
+  1-nt gap        98.0   95.9   96.4   95.8   96.2
+  2-nt gap        85.8   82.8   83.6   72.6   84.6
+exact permutation test on per-seed mean DNA pLDDT (n = 5 seeds/group):
+  2-nt gap vs intact duplex  delta = 13.2  P = 0.0079
+  2-nt gap vs nicked         delta = 13.3  P = 0.0079
+  2-nt gap vs 1-nt gap       delta = 14.6  P = 0.0079
+
+per-seed protein pLDDT (mean of 5 models per seed):
+  intact duplex   96.8   96.9   96.8   96.9   96.8
+  nicked          96.8   97.3   97.2   97.1   97.1
+  1-nt gap        97.5   97.3   97.4   97.3   97.3
+  2-nt gap        96.4   96.3   96.3   94.9   96.3
+exact permutation test on per-seed mean protein pLDDT (n = 5 seeds/group):
+  2-nt gap vs intact duplex  delta =  0.8  P = 0.0079
+  2-nt gap vs nicked         delta =  1.1  P = 0.0079
+  2-nt gap vs 1-nt gap       delta =  1.3  P = 0.0079

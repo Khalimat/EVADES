@@ -1,0 +1,3 @@
+numpy
+pillow
+# plus PyMOL (open-source or Schrodinger); tested with the macOS PyMOL.app bundle
