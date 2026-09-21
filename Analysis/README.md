@@ -4,10 +4,10 @@ proteins".
 
 # Sections
 ## Section 1
-Co-folding of uncharacterised anti-defence proteins with bacterial the corresponding defence proteins/
+Co-folding of uncharacterised anti-defence proteins with bacterial the corresponding defence proteins.
 ## Section 2
 Comparision of ADPs with bacterial defence triggers. Functional analysis. Co-folding of DNA mimics with all bacterial defence proteins.
 ## Section 3
-Comparision of ADPs with proteins encoded by eukaryoric viruses
+Comparision of ADPs with proteins encoded by eukaryotic viruses
 
 
