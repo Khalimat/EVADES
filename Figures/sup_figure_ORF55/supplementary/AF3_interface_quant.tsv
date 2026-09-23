@@ -1,0 +1,11 @@
+metric	intact_mean	intact_sd	nicked_mean	nicked_sd	gap1nt_mean	gap1nt_sd	gap2nt_mean	gap2nt_sd	n_seeds
+buried SASA, total (A^2)	2005.032	16.623	1963.576	83.845	1946.427	16.445	1853.945	16.993	5
+buried SASA per DNA nt (A^2)	47.739	0.396	46.752	1.996	47.474	0.401	46.349	0.425	5
+buried SASA, continuous strand only (A^2)	1930.611	10.453	1911.074	45.899	1893.160	14.899	1832.692	14.058	5
+buried SASA per continuous-strand nt (21 nt, constant)	91.934	0.498	91.004	2.186	90.150	0.709	87.271	0.669	5
+protein-DNA H-bonds, total	33.200	2.561	35.600	3.611	32.400	3.323	32.600	3.262	5
+H-bonds per DNA nt	0.790	0.061	0.848	0.086	0.790	0.081	0.815	0.082	5
+H-bonds to continuous strand (21 nt, constant)	13.400	1.356	15.600	1.497	13.400	3.007	17.600	2.417	5
+H-bonds per continuous-strand nt	0.638	0.065	0.743	0.071	0.638	0.143	0.838	0.115	5
+distinct interface residues	51.400	2.059	46.800	3.429	46.600	1.200	45.000	1.414	5
+DNA nucleotides in the model	42.000	0.000	42.000	0.000	41.000	0.000	40.000	0.000	5

@@ -1,0 +1,8 @@
+Supplementary Table S1. The ORF55-DNA interface is equivalent across substrates once normalised
+for DNA length. ORF55 + ATP co-folded with the intact (ligated), nicked, one- and
+two-nucleotide-gapped 21-bp duplex; interface metrics from the highest-confidence model per
+AlphaFold 3 seed (mean +/- s.d., n = 5; see AF3_interface_quant.tsv). Buried solvent-accessible
+surface area per DNA nucleotide and protein-DNA hydrogen bonds per DNA nucleotide are the same
+for all four substrates; hydrogen bonds to the continuous strand (21 nucleotides in every model) do
+not decrease with gap size. Buried surface area and hydrogen bonds were computed in PyMOL
+(heavy-atom N/O...N/O <= 3.5 A).
