@@ -1,0 +1,36 @@
+[{
+ "name": "NTase_YP_009091875_UTP_UTP_Mg3_seed3",
+ "modelSeeds": [
+  "3"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MVYIVIDTGSRAKGYAVESSDFDFKVYTKCSREQFELYIQDKQILKNTHKRVELCNVIKTETSHQLCDVVYIDLYVGMIGIVTGKNPELGVFVKEHDVKNEEDDTVNTPLYEFIKQLTHLSMCAITTTMMKYAILRTNKNLLQLMFNYVYVEYYLKHGKAPSSTRILDIVHEMNDTPETLYVDMYAKLMKRETCDAQDVIFFEQWKSDILQRLKCTCNAHQQAVLRHNVVMYALNLQKSEIKPCVCCVNNYIFPKYNTN",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "ligand": {
+    "ligand": "UTP",
+    "count": 1
+   }
+  },
+  {
+   "ligand": {
+    "ligand": "UTP",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "MG",
+    "count": 3
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]
